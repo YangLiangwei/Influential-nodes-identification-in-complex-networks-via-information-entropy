@@ -3,15 +3,11 @@ codes for paper named influential nodes identification in complex network via in
 # Content #
 
 ----------
-## EnRenew Rank algorithm ##
+## Algorithms ##
 
-Input:  
-G: Networks in format of networks.  
-topk: int. How much nodes to select.
-order: int. Paremeter n in paper. n==2 is recomented.
-
-Return:
-List. Selected nodes with its information entropy. Example:[(node, entropy), (node, entropy),(node, entropy)]
+Algorithms used in paper. Including degree, kshell, voterank, EnRenew Rank, degree-non, kshell-non, voterank-non and EnRenew Rank-non.
 
 
-## Experiments ##
+## Experiments and data ##
+
+Including all the experiments and data in paper.
